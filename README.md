@@ -11,5 +11,5 @@ In this path will help me to develop skill sets in a variety of technologies
 To achieve this goal I follow two courses,
 
 # 1. full stack software developer(University of Moratuwa-SriLanka)
-
+[![forthebadge](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/certified-university-of-moratuwa.svg)]
 # 2.Become a Programmer: Foundations (linkedin learning platform)
