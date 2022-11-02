@@ -17,15 +17,15 @@ To achieve this goal I follow two courses,:bookmark_tabs:
 
 
 ### :one: full stack software developer(University of Moratuwa-Sri Lanka) :trophy:
-- :bookmark: Getting Started
-- :bookmark: Python For Beginners 1
-- :bookmark: Python Programming Essential 2
-- :bookmark: Web Development : Web Design
-- :bookmark: Web Development : Front-End 
-- :bookmark: Web Development : Server-End
-- :bookmark: Professional practice : Soft Skills
-- :bookmark: Professional practice : Technical Skills
-- :bookmark: Professional practice : Capstone Project
+
+- :bookmark: [Python For Beginners 1](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/1.Python%20For%20Beginners%201)
+- :bookmark: [Python Programming Essential 2](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/2.Python%20Programming%20Essential%202)
+- :bookmark: [Web Development : Web Design](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/3.Web%20Development%20:%20Web%20Design)
+- :bookmark: [Web Development : Front-End](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/4.Web%20Development%20:%20Front-End) 
+- :bookmark: [Web Development : Server-End](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/5.Web%20Development%20:%20Server-End)
+- :bookmark: [Professional practice : Soft Skills](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/6.Professional%20practice%20:%20Soft%20Skills)
+- :bookmark: [Professional practice : Technical Skills](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/7.Professional%20practice%20:%20Technical%20Skills)
+- :bookmark: [Professional practice : Capstone Project](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/full%20stack%20software%20developer/8.Professional%20practice%20:%20Capstone%20Project)
 
 
 
