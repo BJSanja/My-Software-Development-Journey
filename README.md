@@ -1,8 +1,8 @@
-# My-Software-Development-Journey
+#   :mortar_board: My-Software-Development-Journey 
 
-This repository is used to document my journey on getting a better foundational knowledge of "Software Development".
+This repository is used to document my journey on getting a better foundational knowledge of "Software Development".:memo:
 
-I want to become a successful DevOps engineer.
+I want to become a successful DevOps engineer:sparkling_heart:
 
 Frist I  plan to develop Software engineering Foundation knowledge & skills.
 In this path will help me to develop skill sets in a variety of technologies
@@ -10,6 +10,5 @@ In this path will help me to develop skill sets in a variety of technologies
 
 To achieve this goal I follow two courses,
 
-# 1. full stack software developer(University of Moratuwa-SriLanka)
-[![forthebadge](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/certified-university-of-moratuwa.svg)]
-# 2.Become a Programmer: Foundations (linkedin learning platform)
+### 1. full stack software developer(University of Moratuwa-SriLanka) ![forthebadge](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/certified-university-of-moratuwa.svg)
+### 2. Become a Programmer: Foundations (Linkedin learning platform) ![forthebadge](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/certified-linkedin.svg)
