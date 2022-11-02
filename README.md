@@ -30,20 +30,20 @@ To achieve this goal I follow two courses,:bookmark_tabs:
 
 
 ### :two: Become a Programmer: Foundations (Linkedin learning platform) :trophy:
-- :gem: Programming Foundation : Fundemental
-- :gem: Beyond the Fundamental
-- :gem: Real-World Example
-- :gem: Object-Oriented Design
-- :gem: Algorithms
-- :gem: Design Patterns
-- :gem: Data Structure
-- :gem: Data Bases
-- :gem: API & WebServices
-- :gem: Web Security
-- :gem: Test-Driven Development
-- :gem: Software Testing/QA
-- :gem: Security Cording
-- :gem: Fuzzy Logic
+- :gem: [Programming Foundation : Fundemental](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/1.Programming%20Foundation%20:%20Fundemental)
+- :gem: [Beyond the Fundamental](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/2.Beyond%20the%20Fundamental)
+- :gem: [Real-World Example](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/3.Real-World%20Example)
+- :gem: [Object-Oriented Design](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/4.Object-Oriented%20Design)
+- :gem: [Algorithms](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/5.Algorithms)
+- :gem: [Design Patterns](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/6.Design%20Patterns)
+- :gem: [Data Structure](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/7.Data%20Structure)
+- :gem: [Data Bases](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/8.Data%20Bases)
+- :gem: [API & WebServices](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/9.API%20%26%20WebServices)
+- :gem: [Web Security](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/10.Web%20Security)
+- :gem: [Test-Driven Development](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/11.Test-Driven%20Development)
+- :gem: [Software Testing/QA](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/12.%20Software%20Testing-QA)
+- :gem: [Security Cording](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/13.Security%20Cording)
+- :gem: [Fuzzy Logic](https://github.com/BJSanja/My-Software-Development-Journey/blob/main/Become%20a%20Programmer:%20Foundations/14.Fuzzy%20Logic)
 
 
 
