@@ -1,1 +1,30 @@
-
+Python has become the need of the IT industry as well as other organization who want to automate their business functions.
+I follow folowing content in this course.
+1. Introduction to Programming
+ 1.1 Computational Thinking
+ 1.2 Anatomy of a Software Application
+2. Getting Started with Python
+ 2.1 Setting up Python Locally
+ 2.2 My First Python Program
+3. Python Programming - Basics
+ 3.1 Expressions and Statements
+ 3.2 Variables and Data Types
+ 3.3 Operators
+ 3.4 Conditional Execution
+4. Python Programming - Essentials
+ 4.1 Lists
+ 4.2 Loops and Iterations
+ 4.3 Input and Output
+ 4.4 Functions
+ 4.5 Errors
+5. Python Programming - Looking Ahead
+ 5.1 Files
+ 5.2 Strings
+ 5.3 Getting Started with Python Libraries
+ 5.4 Writing Clean Code
+6. Software Development Process
+ 6.1 Software Development Lifecycle
+ 6.2 Roles in a Software Development Team
+7. Assignment: Programming a Calculator
+ 7.1 Assignment: Programming a Calculator Stage 1
+ 7.2 Assignment: Programming a Calculator Stage 2 (Implement a history list)
